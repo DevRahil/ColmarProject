@@ -1,0 +1,81 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+
+}
+
+.grid-item {
+    border: 1px solid black;
+}
+
+ .banner {
+    width: 95%;
+    margin: 32px 24px;
+    color: rgb(224, 208, 33);
+
+}
+
+.new-title {
+    margin-top: 20%;
+}
+
+.grid-item  {
+    padding-left: 24px;
+}
+
+.start {
+    margin-left: 100px;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+.information {
+    width: 95%;
+    margin: 32px 24px;
+}
+
+.date {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.orientation {
+    height: auto;
+    width: 35%;
+    padding-top: 20px;
+}
+
+.tuesday {
+    text-align: left;
+    
+} 
+
+.campus {
+    height: auto;
+    width: 35%;
+    padding-top: 20px;
+}
+
+.hello {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.find {
+    text-align: left;
+}
+
+.lecture {
+    height: auto;
+    width: 35%;
+    padding-top: 20px;
+}
+
+.guest {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.join {
+    text-align: left;
+}
